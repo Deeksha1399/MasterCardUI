@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MasterCardUI</string>
+    <string name="_5270_7777_8888_9999">5270 7777 8888 9999</string>
+    <string name="card_holder">Card holder</string>
+    <string name="exp_date">EXP DATE</string>
+    <string name="deeksha_kundabarandady">Deeksha Kundabarandady</string>
+    <string name="_01_28">01/28</string>
+    <string name="_446">446</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="add_new_card">+ Add new card</string>
+    <string name="back_navigation_button">Back navigation button</string>
+    <string name="notification_button">Notification button</string>
+    <string name="payment">Payment</string>
+    <string name="mastercard_image">MasterCard image</string>
+</resources>
